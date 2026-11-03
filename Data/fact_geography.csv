@@ -1,0 +1,26 @@
+company,year,region,share_pct,definition_note,revenue_meur_est
+LVMH,2025,Europe,26,'Amériques' = États-Unis uniquement (le reste des Amériques est dans 'Autres'),21010
+LVMH,2025,Amériques,26,'Amériques' = États-Unis uniquement (le reste des Amériques est dans 'Autres'),21010
+LVMH,2025,Japon,8,'Amériques' = États-Unis uniquement (le reste des Amériques est dans 'Autres'),6465
+LVMH,2025,Asie-Pacifique (hors Japon),26,'Amériques' = États-Unis uniquement (le reste des Amériques est dans 'Autres'),21010
+LVMH,2025,Autres,14,'Amériques' = États-Unis uniquement (le reste des Amériques est dans 'Autres'),11313
+LVMH,2024,Europe,25,'Amériques' = États-Unis uniquement (le reste des Amériques est dans 'Autres'),21171
+LVMH,2024,Amériques,25,'Amériques' = États-Unis uniquement (le reste des Amériques est dans 'Autres'),21171
+LVMH,2024,Japon,9,'Amériques' = États-Unis uniquement (le reste des Amériques est dans 'Autres'),7621
+LVMH,2024,Asie-Pacifique (hors Japon),28,'Amériques' = États-Unis uniquement (le reste des Amériques est dans 'Autres'),23711
+LVMH,2024,Autres,13,'Amériques' = États-Unis uniquement (le reste des Amériques est dans 'Autres'),11009
+Hermès,2025,Europe,25,Europe = France + Europe hors France ; Autres = Moyen-Orient,4000
+Hermès,2025,Amériques,19,Europe = France + Europe hors France ; Autres = Moyen-Orient,3040
+Hermès,2025,Japon,10,Europe = France + Europe hors France ; Autres = Moyen-Orient,1600
+Hermès,2025,Asie-Pacifique (hors Japon),42,Europe = France + Europe hors France ; Autres = Moyen-Orient,6721
+Hermès,2025,Autres,4,Europe = France + Europe hors France ; Autres = Moyen-Orient,640
+Hermès,2024,Europe,24,Europe = France + Europe hors France ; Autres = Moyen-Orient,3641
+Hermès,2024,Amériques,19,Europe = France + Europe hors France ; Autres = Moyen-Orient,2882
+Hermès,2024,Japon,9,Europe = France + Europe hors France ; Autres = Moyen-Orient,1365
+Hermès,2024,Asie-Pacifique (hors Japon),44,Europe = France + Europe hors France ; Autres = Moyen-Orient,6675
+Hermès,2024,Autres,4,Europe = France + Europe hors France ; Autres = Moyen-Orient,607
+Kering,2024,Europe,29,Europe = Europe de l'Ouest ; Amériques = Amérique du Nord ; 2025 non disponible,4986
+Kering,2024,Amériques,24,Europe = Europe de l'Ouest ; Amériques = Amérique du Nord ; 2025 non disponible,4127
+Kering,2024,Japon,8,Europe = Europe de l'Ouest ; Amériques = Amérique du Nord ; 2025 non disponible,1376
+Kering,2024,Asie-Pacifique (hors Japon),30,Europe = Europe de l'Ouest ; Amériques = Amérique du Nord ; 2025 non disponible,5158
+Kering,2024,Autres,9,Europe = Europe de l'Ouest ; Amériques = Amérique du Nord ; 2025 non disponible,1547

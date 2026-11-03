@@ -1,0 +1,16 @@
+company,year,revenue_meur,recurring_op_income_meur,net_income_group_meur,employees,organic_growth_pct,source,op_margin_pct,net_margin_pct,revenue_per_employee_keur,revenue_growth_pct
+Hermès,2021,8982,3530,2445,17595,42.0,Hermès comm. 18/02/2022,39.3,27.2,510.0,
+Hermès,2022,11602,4697,3367,19686,23.0,Hermès comm. 17/02/2023,40.5,29.0,589.0,29.2
+Hermès,2023,13427,5650,4311,22037,21.0,Hermès comm. 09/02/2024,42.1,32.1,609.0,15.7
+Hermès,2024,15170,6150,4603,25185,15.0,Hermès Résultats annuels 2025.pdf (p.22-24),40.5,30.3,602.0,13.0
+Hermès,2025,16002,6569,4524,26494,9.0,"Hermès Résultats annuels 2025.pdf (p.2, 22-24)",41.1,28.3,604.0,5.5
+Kering,2021,17645,5017,3176,42811,,Kering Document financier 2022,28.4,18.0,412.0,
+Kering,2022,20351,5589,3614,47227,9.0,Kering Document financier 2022,27.5,17.8,431.0,15.3
+Kering,2023,19566,4746,2983,48964,-2.0,Kering comm. 08/02/2024,24.3,15.2,400.0,-3.9
+Kering,2024,17194,2554,1133,47000,,"Kering Rapport d'activité 2024.pdf (p.9, 73) - base publiée",14.9,6.6,366.0,-12.1
+Kering,2025,14675,1631,72,43731,-10.0,Kering comm. 10/02/2026 (activités poursuivies ; 2024 retraité : CA 16 874 / ROC 2 440),11.1,0.5,336.0,-13.0
+LVMH,2021,64215,17151,12036,175647,36.0,LVMH comm. 27/01/2022 ; effectif URD (to_verify),26.7,18.7,366.0,
+LVMH,2022,79184,21055,14084,196006,17.0,LVMH comm. 26/01/2023 ; effectif URD (to_verify),26.6,17.8,404.0,23.3
+LVMH,2023,86153,22802,15174,213268,13.0,LVMH comm. 25/01/2024,26.5,17.6,404.0,8.8
+LVMH,2024,84683,19571,12550,215637,1.0,LVMH Résultats annuels 2025.pdf (p.22-23),23.1,14.8,393.0,-1.7
+LVMH,2025,80807,17755,10878,211552,-1.0,LVMH Résultats annuels 2025.pdf (p.15-23),22.0,13.5,382.0,-4.6
